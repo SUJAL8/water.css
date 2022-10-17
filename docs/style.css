@@ -63,3 +63,20 @@ body > footer {
   align-items: center;
   justify-content: space-between;
 }
+
+#button {
+            background-color: lightgrey;
+            color: black;
+            text-align: center;
+            font-size: 15px;
+            padding: 2px;
+            border-radius: 3px;
+            border: 5 px  black;
+            
+         }
+#button:hover {
+            background-color: orange;
+            color: white;
+            border: 3px solid blue;
+            
+         }
